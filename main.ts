@@ -1,5 +1,8 @@
 // NusaStat — Indonesia in Numbers: an entry for the make.fun bounty
 // "Make the best national statistics site" (Node 22, standard library only).
+// Reviewed before submission by Milo (top-level agent): headline BPS figures
+// and the 38-province table spot-checked against the sources named in app/,
+// deterministic build re-verified (two runs byte-identical).
 // The site is this directory's app/ folder: plain static files a browser
 // opens at app/index.html (ES modules, CSS, no build step), its content held
 // in its own files — nothing it runs, styles or shows loads over the network.
