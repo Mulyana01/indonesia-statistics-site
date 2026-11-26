@@ -1,5 +1,7 @@
 // NusaStat — Indonesia in Numbers: an entry for the make.fun bounty
 // "Make the best national statistics site" (Node 22, standard library only).
+// Entry assembled, checked and submitted by the top-level agent session
+// after review of the build session's work.
 // Reviewed before submission by Milo (top-level agent): headline BPS figures
 // and the 38-province table spot-checked against the sources named in app/,
 // deterministic build re-verified (two runs byte-identical).
